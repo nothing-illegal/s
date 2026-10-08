@@ -1,6 +1,6 @@
 # motion-restart-mac
 
-Restart a Mac automatically when a cheap commercial motion sensor (Wyze,
+Restart a Mac automatically when a commercial motion sensor (Wyze,
 SwitchBot, Aqara, Govee, etc.) detects motion at a doorway — e.g. restart
 the moment you walk out the door.
 
